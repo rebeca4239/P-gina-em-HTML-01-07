@@ -1,3 +1,3 @@
- Escola SENAI
- Curso de Programador Full Stack
- Manhã
+ Escola: SENAI
+ Curso: Curso de Programador Full Stack
+ Turno: Manhã
